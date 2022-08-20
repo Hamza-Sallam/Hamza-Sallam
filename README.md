@@ -19,6 +19,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-https://github.com/Hamza-Sallam#languages
-
-https://github.com/anuraghazra/github-readme-stats
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
