@@ -1,3 +1,13 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Sallam&show_icons=true&theme=algolia )
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Hamza-Sallam
 - 👀 I’m interested in Web and software Development 
 - 🌱 I’m currently learning Angular Framework
