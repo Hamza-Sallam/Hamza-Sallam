@@ -1,3 +1,12 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hamza Sallam" />
+</h1>
+
+
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Sallam&show_icons=true&theme=algolia )
 
@@ -18,5 +27,6 @@ Hamza-Sallam/Hamza-Sallam is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
+**Front-end**
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+
