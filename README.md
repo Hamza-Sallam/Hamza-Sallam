@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 
 https://github.com/Hamza-Sallam#languages
+
+https://github.com/anuraghazra/github-readme-stats
