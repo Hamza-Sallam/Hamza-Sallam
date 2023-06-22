@@ -10,8 +10,7 @@
 
 
 - 👋 Hi, I’m @Hamza-Sallam
-- 👀 I’m interested in Web and software Development 
-- 🌱 I’m currently learning Angular Framework
+- 👀 I’m interested in Machine learning and AI 
 - 📫 How to reach me ... email: farid.sallam02@bilgiedu.net , website: www.7amza.site
 
 <br/>
