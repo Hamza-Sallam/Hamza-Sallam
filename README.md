@@ -10,7 +10,7 @@
 
 
 - 👋 Hi, I’m @Hamza-Sallam
-- 👀 I’m interested in Machine learning and AI 
+- 👀 I’m interested in Deep learning and AI 
 - 📫 How to reach me ... email: farid.sallam02@bilgiedu.net , website: www.7amza.site
 
 <br/>
