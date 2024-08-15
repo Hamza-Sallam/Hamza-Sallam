@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-sallam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamza.sallam.31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzasallam._) 
 
 - 👋 Hi, I’m @Hamza-Sallam
-- 👀 I’m interested in DL and AI 
+- 👀 I’m interested in ML and software dev 
 - 📫 How to reach me ... email: hamza.sallam.eng@outlook.com, website: www.7amza.site
 
 
