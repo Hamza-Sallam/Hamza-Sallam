@@ -14,7 +14,8 @@
 
 - 👋 Hi, I’m @Hamza-Sallam
 - 👀 I’m interested in ML and software dev 
-- 📫 How to reach me ... email: hamza.sallam.eng@outlook.com, website: www.7amza.site
+- 📫 How to reach me ... email: hamza.sallam.eng@outlook.com, website: [7amza.com](https://7amza.vercel.app)
+
 
 
 # 💻 Tech Stack:
