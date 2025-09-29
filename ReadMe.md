@@ -16,6 +16,47 @@
 - 👀 I’m interested in ML and software dev 
 - 📫 How to reach me ... email: hamza.sallam.eng@outlook.com, website: [7amza.com](https://7amza.vercel.app)
 
+# 💻 Tech Stack
+
+<p align="center">
+  <a href="#"><img src="assets/python.png" width="70"/><br>Python</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/fastapi.png" width="70"/><br>FastAPI</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/nextjs.png" width="70"/><br>Next.js</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/vue.png" width="70"/><br>Vue.js</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/javascript.png" width="70"/><br>JavaScript</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/java.png" width="70"/><br>Java</a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="assets/tensorflow.png" width="70"/><br>TensorFlow</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/huggingface.png" width="70"/><br>HuggingFace</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/openai.png" width="70"/><br>OpenAI</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/elevenlabs.png" width="70"/><br>ElevenLabs</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/langchain.png" width="70"/><br>LangChain</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/llama.png" width="70"/><br>Llama</a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="assets/html.png" width="70"/><br>HTML</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/css.png" width="70"/><br>CSS</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/postgres.png" width="70"/><br>Postgres</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/docker.png" width="70"/><br>Docker</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/git.png" width="70"/><br>Git</a>
+</p>
 
 
 # 💻 Tech Stack:
