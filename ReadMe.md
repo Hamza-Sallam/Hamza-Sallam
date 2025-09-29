@@ -19,152 +19,34 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
-<div align="center">
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-  <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/Python.png" alt="Python" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff; font-weight:bold;margin-top:6px;">Python</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-  <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/java.png" alt="Java" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Java</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/javascript.png" alt="JavaScript" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">JavaScript</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/typescript.png" alt="TypeScript" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">TypeScript</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;"> 
-      <img src="tech/html.png" alt="HTML" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">HTML</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/css.png" alt="CSS" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">CSS</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-  <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/nodejs.png" alt="Node.js" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Node.js</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/next.png" alt="Next.js" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Next.js</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/git.png" alt="Git" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Git</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-  <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/docker.png" alt="Docker" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Docker</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/postgre.png" alt="PostgreSQL" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">PostgreSQL</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/Numpy.png" alt="NumPy" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">NumPy</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/tensorflow.png" alt="TensorFlow" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">TensorFlow</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/langchain.png" alt="LangChain" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">LangChain</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/openai.png" alt="OpenAI" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">OpenAI</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/ollama.png" alt="Ollama" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Ollama</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/qdrant.webp" alt="Qdrant" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Qdrant</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/fastapi.svg" alt="FastAPI" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">FastAPI</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/elevenlabs.png" alt="ElevenLabs" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">ElevenLabs</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/vapi.png" alt="Vapi" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Vapi</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/hugging.png" alt="Hugging Face" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Hugging Face</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/linux.png" alt="Linux" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">Linux</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/mcp.png" alt="MCP" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">MCP</div>
-  </span>
-  <span style="display:inline-block;text-align:center;width:86px;margin:6px;">
-    <div style="width:56px;height:56px;border-radius:50%;overflow:hidden;box-shadow:0 1px 2px rgba(0,0,0,0.06);margin:0 auto;">
-      <img src="tech/n8n.jpg" alt="n8n" style="width:100%;height:100%;object-fit:contain;" />
-    </div>
-    <div style="font-size:12px;color:#fff;font-weight:bold;margin-top:6px;">n8n</div>
-  </span>
-</div>
+<p align="center">
+<p align="center">
+  <img  src="tech/Python.png" alt="Python" width="60">
+  <img  src="tech/java.png" alt="Java" width="60">
+  <img  src="tech/javascript.png" alt="JavaScript" width="60">
+  <img  src="tech/typescript.png" alt="TypeScript" width="60">
+  <img  src="tech/html.png" alt="HTML" width="60">
+  <img  src="tech/css.png" alt="CSS" width="60">
+  <img  src="tech/nodejs.png" alt="Node.js" width="60">
+  <img  src="tech/next.png" alt="Next.js" width="60">
+  <img  src="tech/git.png" alt="Git" width="60">
+  <img  src="tech/docker.png" alt="Docker" width="60">
+  <img  src="tech/postgre.png" alt="PostgreSQL" width="60">
+  <img  src="tech/Numpy.png" alt="NumPy" width="60">
+  <img  src="tech/tensorflow.png" alt="TensorFlow" width="60">
+  <img  src="tech/langchain.png" alt="LangChain" width="60">
+  <img  src="tech/openai.png" alt="OpenAI" width="60">
+  <img  src="tech/ollama.png" alt="Ollama" width="60">
+  <img  src="tech/qdrant.png" alt="Qdrant" width="60">
+  <img  src="tech/fastapi.svg" alt="FastAPI" width="60">
+  <img  src="tech/elevenlabs.png" alt="ElevenLabs" width="60">
+  <img  src="tech/vapi.png" alt="Vapi" width="60">
+  <img  src="tech/hugging.svg" alt="Hugging Face" width="60">
+  <img  src="tech/linux.png" alt="Linux" width="60">
+  <img  src="tech/mcp.png" alt="MCP" width="60">
+  <img  src="tech/n8n.webp" alt="n8n" width="60">
+</p>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
