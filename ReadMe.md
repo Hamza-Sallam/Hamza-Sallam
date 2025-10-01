@@ -14,7 +14,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" /> Hi, I’m @Hamza-Sallam
 - 👀 I’m work in AI and software dev 
 - 📫 How to reach me ... 
-- email: hamza.sallam.eng@outlook.com, website: [7amza.vercel.app](https://7amza.vercel.app)
+- email: hamza.sallam.eng@outlook.com, website: [hamzasallam.online](https://hamzasallam.online)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
