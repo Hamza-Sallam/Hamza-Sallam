@@ -12,7 +12,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> about me
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" /> Hi, I’m @Hamza-Sallam
-- 👀 I’m work in AI and software dev 
+- 👀 I work in AI and software dev 
 - 📫 How to reach me ... 
 - email: hamza.sallam.eng@outlook.com, website: [hamzasallam.online](https://hamzasallam.online)
 
